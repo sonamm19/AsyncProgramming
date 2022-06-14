@@ -1,4 +1,4 @@
-﻿namespace AsyncProgramming
+namespace AsyncProgramming
 {
 	partial class Form1
 	{
@@ -95,7 +95,7 @@
 			this.txtTaskId.Location = new System.Drawing.Point(594, 150);
 			this.txtTaskId.Name = "txtTaskId";
 			this.txtTaskId.ReadOnly = true;
-			this.txtTaskId.Size = new System.Drawing.Size(207, 20);
+			this.txtTaskId.Size = new System.Drawing.Size(194, 20);
 			this.txtTaskId.TabIndex = 6;
 			// 
 			// richTxtInfo
@@ -110,11 +110,11 @@
 			// 
 			this.label1.AutoSize = true;
 			this.label1.Enabled = false;
-			this.label1.Location = new System.Drawing.Point(536, 150);
+			this.label1.Location = new System.Drawing.Point(529, 153);
 			this.label1.Name = "label1";
-			this.label1.Size = new System.Drawing.Size(48, 13);
+			this.label1.Size = new System.Drawing.Size(61, 13);
 			this.label1.TabIndex = 8;
-			this.label1.Text = "Task No";
+			this.label1.Text = "ThreadId(s)";
 			// 
 			// Form1
 			// 
